@@ -6,10 +6,12 @@ Example of Valid JSON
     "symbol": "CRYPTOGRAM",
     "type": "BEP-20",
     "decimals": 18,
+    "description": "First Crypto-Based Wallet to wallet and cross wallet Chat Platform .",
     "website": "https://cryptogramplatform.com/",
     "explorer": "https://bscscan.com/token/0xdebaa696f6ed65c9d26d51f2afb2f323f3c058e1", 
     "reflections": true,
     "social" : {
         "twitter" : "https://twitter.com/CryptogramTM"
+        "Telegram" : "https://t.me/cryptogramplatform"
     }
 }
