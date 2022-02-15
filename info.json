@@ -1,0 +1,15 @@
+Example of Valid JSON
+
+{
+    "id": "0xdebaa696f6ed65c9d26d51f2afb2f323f3c058e1",
+    "name": "Cryptogram",
+    "symbol": "CRYPTOGRAM",
+    "type": "BEP-20",
+    "decimals": 18,
+    "website": "https://cryptogramplatform.com/",
+    "explorer": "https://bscscan.com/token/0xdebaa696f6ed65c9d26d51f2afb2f323f3c058e1", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/CryptogramTM"
+    }
+}
